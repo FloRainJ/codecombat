@@ -701,7 +701,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     equipped_item: "Equipé"
     required_purchase_title: "Requis"
     available_item: "Disponible"
-    restricted_title: "Limité"
+    restricted_title: "Interdit"
     should_equip: "(double-clic pour s'équiper)"
     equipped: "(équipé)"
     locked: "(verrouillé)"
@@ -784,7 +784,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
 
   announcement:
     now_available: "Maintenant disponible pour les abonnés!"
-    subscriber: "s'abonner"
+    subscriber: "abonné"
     cuddly_companions: "Les Companions du doudou!" # Pet Announcement Modal
     kindling_name: "Elémentaire d'embrasement"
     kindling_description: "Les Elémentaires d'embrasement veulent juste vous réchauffer la nuit. Et durant le jour.Tout le temps, vraiment."
@@ -825,7 +825,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     wallOfDarkness_description: "Se cacher derrière un mur d'ombres pour prévenir le regard d'yeux indiscrets."
 
   premium_features:
-    get_premium: "Abonnes-toi à <br>CodeCombat<br>Premium" # Fit into the banner on the /features page
+    get_premium: "Abonne-toi à <br>CodeCombat<br>Premium" # Fit into the banner on the /features page
     master_coder: "Devient un Maître du code en t'abonnant aujourd'hui!"
     paypal_redirect: "TU seras redirigé vers PayPal pour compléter le processus d'abonnement."
     subscribe_now: "Abonnes-toi Maintenant"
